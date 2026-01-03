@@ -5,7 +5,7 @@ Welcome to my personal portfolio website repository.
 This site showcases my work in data science, analytics engineering, and applied machine learning, including real-world projects in forecasting, pricing, anomaly detection, and business intelligence.
 
 🔗 **Live website:**  
-https://farzaneh121.github.io
+https://farzaneh-heidari.github.io
 
 ---
 
@@ -36,7 +36,8 @@ This repository powers my portfolio website, which includes:
 
 - **Email:** farzaneh@fastmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/farzanehheidari  
-- **GitHub:** https://github.com/farzaneh121
+- **GitHub:** https://github.com/farzaneh-heidari
+- **Address:** Copenhagen 2300, Denmark
 
 ---
 
